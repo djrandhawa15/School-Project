@@ -1,0 +1,37 @@
+.site-branding {
+	padding-left: 2rem;
+	background-color: black;
+}
+
+.site-title {
+    text-decoration: none;
+}
+
+.site-header {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	background-color: black;
+}
+
+
+.main-navigation {
+	display: block;
+	width: 100%;
+}
+.site-header .site-title a {
+    display: block;
+    color: #fff;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 50em) {
+    .site-header {
+        padding: 10px;
+    }
+
+    .menu-toggle {
+        width: 100%;
+        text-align: center;
+    }
+}

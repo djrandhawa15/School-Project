@@ -1,0 +1,59 @@
+[21-May-2024 21:51:51 UTC] WPMDB: {"type":"initiate","location":"local","target":true,"sites":{"local":"https:\/\/simrancodes.com\/school","remote":"https:\/\/dilrajrandhawa.com\/mindset"}}
+[21-May-2024 21:52:28 UTC] WPMDB: {"type":"complete","location":"local","target":true,"sites":{"local":"https:\/\/simrancodes.com\/school","remote":"https:\/\/dilrajrandhawa.com\/mindset"},"migration_id":"1b79406d-a59e-4c70-92a1-b67da7409169"}
+[29-May-2024 18:21:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/footer.php on line 19
+[29-May-2024 18:22:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_template_part(), 0 passed in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/footer.php on line 21 and at least 1 expected in /home/customer/www/simrancodes.com/public_html/school/wp-includes/general-template.php:167
+Stack trace:
+#0 /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/footer.php(21): get_template_part()
+#1 /home/customer/www/simrancodes.com/public_html/school/wp-includes/template.php(810): require_once('/home/customer/...')
+#2 /home/customer/www/simrancodes.com/public_html/school/wp-includes/template.php(745): load_template('/home/customer/...', true, Array)
+#3 /home/customer/www/simrancodes.com/public_html/school/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#4 /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php(173): get_footer()
+#5 /home/customer/www/simrancodes.com/public_htm in /home/customer/www/simrancodes.com/public_html/school/wp-includes/general-template.php on line 167
+[31-May-2024 18:54:43 UTC] PHP Parse error:  syntax error, unexpected ''">Read More about' (T_ENCAPSED_AND_WHITESPACE) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/page-student-list.php on line 39
+[31-May-2024 18:54:45 UTC] PHP Parse error:  syntax error, unexpected ''">Read More about' (T_ENCAPSED_AND_WHITESPACE) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/page-student-list.php on line 39
+[31-May-2024 22:21:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php on line 238
+[31-May-2024 22:21:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php on line 238
+[31-May-2024 22:29:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php on line 238
+[01-Jun-2024 18:43:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 156
+[01-Jun-2024 18:45:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 156
+[03-Jun-2024 19:20:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 28
+[03-Jun-2024 19:58:14 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 80
+[03-Jun-2024 19:58:27 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 80
+[03-Jun-2024 20:01:01 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in /home/customer/www/simrancodes.com/public_html/school/wp-includes/formatting.php on line 4494
+[03-Jun-2024 20:01:04 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in /home/customer/www/simrancodes.com/public_html/school/wp-includes/formatting.php on line 4494
+[03-Jun-2024 20:19:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 17
+[03-Jun-2024 20:27:14 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 110
+[03-Jun-2024 20:27:14 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 110
+[03-Jun-2024 20:27:30 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 110
+[03-Jun-2024 20:27:32 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 110
+[03-Jun-2024 20:27:33 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 110
+[03-Jun-2024 21:20:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php on line 196
+[03-Jun-2024 21:20:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php on line 196
+[04-Jun-2024 17:43:26 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 119
+[04-Jun-2024 17:43:30 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 119
+[04-Jun-2024 17:43:31 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 119
+[04-Jun-2024 17:43:33 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 119
+[04-Jun-2024 17:43:37 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 119
+[04-Jun-2024 18:02:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_template_part() in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php:75
+Stack trace:
+#0 /home/customer/www/simrancodes.com/public_html/school/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/simrancodes.com/public_html/school/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/simrancodes.com/public_html/school/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 75
+[04-Jun-2024 18:02:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpget_template_part() in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php:75
+Stack trace:
+#0 /home/customer/www/simrancodes.com/public_html/school/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/simrancodes.com/public_html/school/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/simrancodes.com/public_html/school/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/front-page.php on line 75
+[04-Jun-2024 18:17:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/sidebar.php on line 11
+[04-Jun-2024 19:38:44 UTC] PHP Warning:  require(/home/customer/www/simrancodes.com/public_html/school/wp-content/themes/school-theme/inc/cpt-taxonomy.php): failed to open stream: No such file or directory in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/school-theme/functions.php on line 213
+[04-Jun-2024 19:38:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/customer/www/simrancodes.com/public_html/school/wp-content/themes/school-theme/inc/cpt-taxonomy.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/school-theme/functions.php on line 213
+[04-Jun-2024 21:29:46 UTC] PHP Fatal error:  Cannot redeclare register_student_taxonomy() (previously declared in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php:382) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/inc/cpt-taxonomy.php on line 342
+[04-Jun-2024 21:29:56 UTC] PHP Fatal error:  Cannot redeclare register_student_taxonomy() (previously declared in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php:382) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/inc/cpt-taxonomy.php on line 342
+[04-Jun-2024 21:30:21 UTC] PHP Fatal error:  Cannot redeclare register_student_taxonomy() (previously declared in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php:382) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/inc/cpt-taxonomy.php on line 342
+[04-Jun-2024 21:32:16 UTC] PHP Fatal error:  Cannot redeclare register_student_taxonomy() (previously declared in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php:382) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/inc/cpt-taxonomy.php on line 342
+[04-Jun-2024 21:32:19 UTC] PHP Fatal error:  Cannot redeclare register_student_taxonomy() (previously declared in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php:382) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/inc/cpt-taxonomy.php on line 342
+[04-Jun-2024 21:32:20 UTC] PHP Fatal error:  Cannot redeclare register_student_taxonomy() (previously declared in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/functions.php:382) in /home/customer/www/simrancodes.com/public_html/school/wp-content/themes/mindset theme/inc/cpt-taxonomy.php on line 342
